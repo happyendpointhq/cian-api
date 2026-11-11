@@ -1,0 +1,746 @@
+{
+  "success": true,
+  "data": {
+    "deal": "sale",
+    "property_type": [
+      "flat"
+    ],
+    "total": 7461,
+    "retrievable_total": 1500,
+    "is_truncated": true,
+    "page": 1,
+    "page_size": 28,
+    "max_page": 54,
+    "has_more": true,
+    "returned": 28,
+    "sort": "newest",
+    "items": [
+      {
+        "offer_id": 335738951,
+        "url": "https://www.cian.ru/sale/flat/335738951/",
+        "category": "flatSale",
+        "deal_type": "sale",
+        "offer_type": "flat",
+        "is_daily_rent": false,
+        "title": null,
+        "summary": "1-комн.кв.  •  36,2 м²  •  2/16 этаж",
+        "rooms": 1,
+        "rooms_analytics_text": null,
+        "is_studio": false,
+        "is_apartment": null,
+        "total_area_m2": 36.2,
+        "land_area_sotka": null,
+        "land_area_ha": null,
+        "floor": 2,
+        "floors_total": 16,
+        "floor_text": "2/16 этаж",
+        "price": 10500000,
+        "price_formatted_rub": 10500000,
+        "price_per_workplace": null,
+        "price_whole_office_rub": null,
+        "currency": "RUB",
+        "price_period": "total",
+        "price_formatted": "10 500 000 ₽",
+        "price_additional_formatted": null,
+        "price_per_m2_formatted": "290 055 ₽ за м²",
+        "price_changed": "none",
+        "price_details": {
+          "price_label": "Хорошая цена",
+          "discount": null
+        },
+        "terms": "Свободная продажа, возможна ипотека",
+        "terms_extra": null,
+        "agent_fee_pct": null,
+        "utilities": null,
+        "vat": null,
+        "card_info": "1-комн.кв.  •  36,2 м²  •  2/16 этаж  •  290 055 ₽ за м²",
+        "address": "улица Омская, Внуковское поселение, Москва",
+        "full_address": "Россия, Москва, поселение Внуковское, Омская улица",
+        "region_id": 1,
+        "coordinates": {
+          "lat": 55.618,
+          "lng": 37.266
+        },
+        "address_parts": [
+          {
+            "location_id": 1,
+            "name": "Москва",
+            "full_name": "Москва",
+            "type": null,
+            "location_type_id": 1,
+            "is_forming_address": true
+          },
+          {
+            "location_id": 189142,
+            "name": "Внуковское",
+            "full_name": "Внуковское поселение",
+            "type": null,
+            "location_type_id": 207,
+            "is_forming_address": true
+          },
+          {
+            "location_id": 3244266,
+            "name": "Омская",
+            "full_name": "улица Омская",
+            "type": null,
+            "location_type_id": null,
+            "is_forming_address": true
+          }
+        ],
+        "metro": [
+          {
+            "station_id": 535,
+            "name": "Аэропорт Внуково",
+            "line_color": "FFDF00",
+            "line_id": null,
+            "minutes": 4,
+            "travel": "transport",
+            "travel_raw": "transport",
+            "under_construction": false,
+            "opening_year": null
+          }
+        ],
+        "districts": [],
+        "highways": [],
+        "railways": [],
+        "photos": [
+          {
+            "url": "https://images.cdn-cian.ru/images/kvartira-vnukovskoe-omskaya-ulica-3003380461-1.jpg",
+            "thumbnail_url": "https://images.cdn-cian.ru/images/kvartira-vnukovskoe-omskaya-ulica-3003380461-4.jpg",
+            "is_layout": false
+          },
+          {
+            "url": "https://images.cdn-cian.ru/images/kvartira-vnukovskoe-omskaya-ulica-3003379760-1.jpg",
+            "thumbnail_url": "https://images.cdn-cian.ru/images/kvartira-vnukovskoe-omskaya-ulica-3003379760-4.jpg",
+            "is_layout": false
+          },
+          {
+            "url": "https://images.cdn-cian.ru/images/kvartira-vnukovskoe-omskaya-ulica-3003379908-1.jpg",
+            "thumbnail_url": "https://images.cdn-cian.ru/images/kvartira-vnukovskoe-omskaya-ulica-3003379908-4.jpg",
+            "is_layout": false
+          }
+        ],
+        "photo_count": 22,
+        "videos": [],
+        "is_by_homeowner": false,
+        "is_homeowner_confirmed": false,
+        "is_from_developer": false,
+        "is_unique": false,
+        "identical_offer_ids": [],
+        "is_new_building": false,
+        "has_furniture": true,
+        "is_sold_furnished": true,
+        "is_rosreestr_checked": false,
+        "newbuilding": {
+          "newbuilding_id": 7223,
+          "name": "Внуково 2016",
+          "stage": "Сдан",
+          "rating": 2.7,
+          "reviews_count": 6,
+          "has_decoration": true,
+          "is_featured": false,
+          "is_featured_plus": false,
+          "promos": []
+        },
+        "village_id": null,
+        "monthly_income_rub": null,
+        "specialties": null,
+        "coworking": null,
+        "is_auction_sale": false,
+        "trading_link": null,
+        "has_3d_tour": false,
+        "external_partner": null,
+        "raw_flags": {
+          "is_by_homeowner": false,
+          "show_by_homeowner": false,
+          "is_confirmed_home_owner": false,
+          "is_from_developer": false,
+          "is_from_builder": false,
+          "is_from_lead_factory": false,
+          "is_rosreestr_checked": false,
+          "is_auction_sale": null,
+          "is_electronic_trading": null,
+          "has_tour": false,
+          "new_flat": 1
+        },
+        "created_at": "2026-11-03T22:43:05.1"
+      },
+      {
+        "offer_id": 335735980,
+        "url": "https://www.cian.ru/sale/flat/335735980/",
+        "category": "flatSale",
+        "deal_type": "sale",
+        "offer_type": "flat",
+        "is_daily_rent": false,
+        "title": null,
+        "summary": "1-комн.кв.  •  32,5 м²  •  5/9 этаж",
+        "rooms": 1,
+        "rooms_analytics_text": null,
+        "is_studio": false,
+        "is_apartment": null,
+        "total_area_m2": 32.5,
+        "land_area_sotka": null,
+        "land_area_ha": null,
+        "floor": 5,
+        "floors_total": 9,
+        "floor_text": "5/9 этаж",
+        "price": 15600000,
+        "price_formatted_rub": 15600000,
+        "price_per_workplace": null,
+        "price_whole_office_rub": null,
+        "currency": "RUB",
+        "price_period": "total",
+        "price_formatted": "15 600 000 ₽",
+        "price_additional_formatted": null,
+        "price_per_m2_formatted": "480 000 ₽ за м²",
+        "price_changed": "none",
+        "price_details": {
+          "price_label": null,
+          "discount": null
+        },
+        "terms": "Свободная продажа, возможна ипотека",
+        "terms_extra": null,
+        "agent_fee_pct": null,
+        "utilities": null,
+        "vat": null,
+        "card_info": "1-комн.кв.  •  32,5 м²  •  5/9 этаж  •  480 000 ₽ за м²",
+        "address": "Борисовский проезд, Москва",
+        "full_address": "Россия, Москва, Борисовский проезд",
+        "region_id": 1,
+        "coordinates": {
+          "lat": 55.624,
+          "lng": 37.724
+        },
+        "address_parts": [
+          {
+            "location_id": 1,
+            "name": "Москва",
+            "full_name": "Москва",
+            "type": null,
+            "location_type_id": 1,
+            "is_forming_address": true
+          },
+          {
+            "location_id": 362,
+            "name": "Борисовский",
+            "full_name": "Борисовский проезд",
+            "type": null,
+            "location_type_id": null,
+            "is_forming_address": true
+          },
+          {
+            "location_id": 33164,
+            "name": "22К1",
+            "full_name": "22К1",
+            "type": null,
+            "location_type_id": null,
+            "is_forming_address": true
+          }
+        ],
+        "metro": [
+          {
+            "station_id": 238,
+            "name": "Шипиловская",
+            "line_color": "8AD02A",
+            "line_id": null,
+            "minutes": 18,
+            "travel": "walk",
+            "travel_raw": "walk",
+            "under_construction": false,
+            "opening_year": null
+          }
+        ],
+        "districts": [],
+        "highways": [],
+        "railways": [],
+        "photos": [
+          {
+            "url": "https://images.cdn-cian.ru/images/kvartira-moskva-borisovskiy-proezd-3003347308-1.jpg",
+            "thumbnail_url": "https://images.cdn-cian.ru/images/kvartira-moskva-borisovskiy-proezd-3003347308-4.jpg",
+            "is_layout": false
+          },
+          {
+            "url": "https://images.cdn-cian.ru/images/kvartira-moskva-borisovskiy-proezd-3003309808-1.jpg",
+            "thumbnail_url": "https://images.cdn-cian.ru/images/kvartira-moskva-borisovskiy-proezd-3003309808-4.jpg",
+            "is_layout": true
+          },
+          {
+            "url": "https://images.cdn-cian.ru/images/kvartira-moskva-borisovskiy-proezd-3003347347-1.jpg",
+            "thumbnail_url": "https://images.cdn-cian.ru/images/kvartira-moskva-borisovskiy-proezd-3003347347-4.jpg",
+            "is_layout": false
+          }
+        ],
+        "photo_count": 3,
+        "videos": [],
+        "is_by_homeowner": false,
+        "is_homeowner_confirmed": false,
+        "is_from_developer": false,
+        "is_unique": false,
+        "identical_offer_ids": [],
+        "is_new_building": false,
+        "has_furniture": true,
+        "is_sold_furnished": true,
+        "is_rosreestr_checked": false,
+        "newbuilding": null,
+        "village_id": null,
+        "monthly_income_rub": null,
+        "specialties": null,
+        "coworking": null,
+        "is_auction_sale": false,
+        "trading_link": null,
+        "has_3d_tour": false,
+        "external_partner": null,
+        "raw_flags": {
+          "is_by_homeowner": false,
+          "show_by_homeowner": false,
+          "is_confirmed_home_owner": false,
+          "is_from_developer": false,
+          "is_from_builder": null,
+          "is_from_lead_factory": false,
+          "is_rosreestr_checked": false,
+          "is_auction_sale": null,
+          "is_electronic_trading": null,
+          "has_tour": false,
+          "new_flat": 1
+        },
+        "created_at": "2026-11-03T22:35:52.053"
+      },
+      {
+        "offer_id": 335726563,
+        "url": "https://www.cian.ru/sale/flat/335726563/",
+        "category": "flatSale",
+        "deal_type": "sale",
+        "offer_type": "flat",
+        "is_daily_rent": false,
+        "title": null,
+        "summary": "1-комн.кв.  •  34,1 м²  •  8/13 этаж",
+        "rooms": 1,
+        "rooms_analytics_text": null,
+        "is_studio": false,
+        "is_apartment": null,
+        "total_area_m2": 34.1,
+        "land_area_sotka": null,
+        "land_area_ha": null,
+        "floor": 8,
+        "floors_total": 13,
+        "floor_text": "8/13 этаж",
+        "price": 13500000,
+        "price_formatted_rub": 13500000,
+        "price_per_workplace": null,
+        "price_whole_office_rub": null,
+        "currency": "RUB",
+        "price_period": "total",
+        "price_formatted": "13 500 000 ₽",
+        "price_additional_formatted": null,
+        "price_per_m2_formatted": "395 894 ₽ за м²",
+        "price_changed": "none",
+        "price_details": {
+          "price_label": null,
+          "discount": null
+        },
+        "terms": "Свободная продажа, возможна ипотека",
+        "terms_extra": null,
+        "agent_fee_pct": null,
+        "utilities": null,
+        "vat": null,
+        "card_info": "1-комн.кв.  •  34,1 м²  •  8/13 этаж  •  395 894 ₽ за м²",
+        "address": "улица 1-я Ватутинская, Москва",
+        "full_address": "Россия, Москва, район Троицк, 1-я Ватутинская улица",
+        "region_id": 1,
+        "coordinates": {
+          "lat": 55.505,
+          "lng": 37.323
+        },
+        "address_parts": [
+          {
+            "location_id": 1,
+            "name": "Москва",
+            "full_name": "Москва",
+            "type": null,
+            "location_type_id": 1,
+            "is_forming_address": true
+          },
+          {
+            "location_id": 3240488,
+            "name": "1-я Ватутинская",
+            "full_name": "улица 1-я Ватутинская",
+            "type": null,
+            "location_type_id": null,
+            "is_forming_address": true
+          },
+          {
+            "location_id": 13210395,
+            "name": "14к1",
+            "full_name": "14к1",
+            "type": null,
+            "location_type_id": null,
+            "is_forming_address": true
+          }
+        ],
+        "metro": [
+          {
+            "station_id": 551,
+            "name": "Ватутинки",
+            "line_color": "03795F",
+            "line_id": null,
+            "minutes": 10,
+            "travel": "walk",
+            "travel_raw": "walk",
+            "under_construction": true,
+            "opening_year": 2029
+          }
+        ],
+        "districts": [],
+        "highways": [],
+        "railways": [],
+        "photos": [
+          {
+            "url": "https://images.cdn-cian.ru/images/kvartira-moskva-1-ya-vatutinskaya-ulica-3003298771-1.jpg",
+            "thumbnail_url": "https://images.cdn-cian.ru/images/kvartira-moskva-1-ya-vatutinskaya-ulica-3003298771-4.jpg",
+            "is_layout": false
+          },
+          {
+            "url": "https://images.cdn-cian.ru/images/kvartira-moskva-1-ya-vatutinskaya-ulica-3003298750-1.jpg",
+            "thumbnail_url": "https://images.cdn-cian.ru/images/kvartira-moskva-1-ya-vatutinskaya-ulica-3003298750-4.jpg",
+            "is_layout": false
+          },
+          {
+            "url": "https://images.cdn-cian.ru/images/kvartira-moskva-1-ya-vatutinskaya-ulica-3002354301-1.jpg",
+            "thumbnail_url": "https://images.cdn-cian.ru/images/kvartira-moskva-1-ya-vatutinskaya-ulica-3002354301-4.jpg",
+            "is_layout": false
+          }
+        ],
+        "photo_count": 17,
+        "videos": [
+          {
+            "type": "kinescope",
+            "url": "https://kinescope.io/sMmib54B34LLKTS2iWtNMm",
+            "duration_s": 59
+          }
+        ],
+        "is_by_homeowner": false,
+        "is_homeowner_confirmed": false,
+        "is_from_developer": false,
+        "is_unique": false,
+        "identical_offer_ids": [],
+        "is_new_building": false,
+        "has_furniture": false,
+        "is_sold_furnished": null,
+        "is_rosreestr_checked": false,
+        "newbuilding": {
+          "newbuilding_id": 1444810,
+          "name": "Russian Design District (Рашен Дизайн Дистрикт)",
+          "stage": "Сдан",
+          "rating": 4.6,
+          "reviews_count": 94,
+          "has_decoration": false,
+          "is_featured": false,
+          "is_featured_plus": false,
+          "promos": []
+        },
+        "village_id": null,
+        "monthly_income_rub": null,
+        "specialties": null,
+        "coworking": null,
+        "is_auction_sale": false,
+        "trading_link": null,
+        "has_3d_tour": false,
+        "external_partner": null,
+        "raw_flags": {
+          "is_by_homeowner": false,
+          "show_by_homeowner": false,
+          "is_confirmed_home_owner": false,
+          "is_from_developer": false,
+          "is_from_builder": false,
+          "is_from_lead_factory": false,
+          "is_rosreestr_checked": false,
+          "is_auction_sale": null,
+          "is_electronic_trading": null,
+          "has_tour": false,
+          "new_flat": 1
+        },
+        "created_at": "2026-11-03T22:11:57.033"
+      },
+      {
+        "offer_id": 335713574,
+        "url": "https://www.cian.ru/sale/flat/335713574/",
+        "category": "flatSale",
+        "deal_type": "sale",
+        "offer_type": "flat",
+        "is_daily_rent": false,
+        "title": null,
+        "summary": "1-комн.кв.  •  32 м²  •  5/9 этаж",
+        "rooms": 1,
+        "rooms_analytics_text": null,
+        "is_studio": false,
+        "is_apartment": null,
+        "total_area_m2": 32,
+        "land_area_sotka": null,
+        "land_area_ha": null,
+        "floor": 5,
+        "floors_total": 9,
+        "floor_text": "5/9 этаж",
+        "price": 13500000,
+        "price_formatted_rub": 13500000,
+        "price_per_workplace": null,
+        "price_whole_office_rub": null,
+        "currency": "RUB",
+        "price_period": "total",
+        "price_formatted": "13 500 000 ₽",
+        "price_additional_formatted": null,
+        "price_per_m2_formatted": "421 875 ₽ за м²",
+        "price_changed": "none",
+        "price_details": {
+          "price_label": null,
+          "discount": null
+        },
+        "terms": "Свободная продажа, возможна ипотека",
+        "terms_extra": null,
+        "agent_fee_pct": null,
+        "utilities": null,
+        "vat": null,
+        "card_info": "1-комн.кв.  •  32 м²  •  5/9 этаж  •  421 875 ₽ за м²",
+        "address": "улица Василисы Кожиной, Москва",
+        "full_address": "Россия, Москва, улица Василисы Кожиной",
+        "region_id": 1,
+        "coordinates": {
+          "lat": 55.737,
+          "lng": 37.501
+        },
+        "address_parts": [
+          {
+            "location_id": 1,
+            "name": "Москва",
+            "full_name": "Москва",
+            "type": null,
+            "location_type_id": 1,
+            "is_forming_address": true
+          },
+          {
+            "location_id": 759,
+            "name": "Василисы Кожиной",
+            "full_name": "улица Василисы Кожиной",
+            "type": null,
+            "location_type_id": null,
+            "is_forming_address": true
+          },
+          {
+            "location_id": 35913,
+            "name": "8К3",
+            "full_name": "8К3",
+            "type": null,
+            "location_type_id": null,
+            "is_forming_address": true
+          }
+        ],
+        "metro": [
+          {
+            "station_id": 11,
+            "name": "Багратионовская",
+            "line_color": "009BD5",
+            "line_id": null,
+            "minutes": 12,
+            "travel": "walk",
+            "travel_raw": "walk",
+            "under_construction": false,
+            "opening_year": null
+          }
+        ],
+        "districts": [],
+        "highways": [],
+        "railways": [],
+        "photos": [
+          {
+            "url": "https://images.cdn-cian.ru/images/kvartira-moskva-ulica-vasilisy-kozhinoy-3003198116-1.jpg",
+            "thumbnail_url": "https://images.cdn-cian.ru/images/kvartira-moskva-ulica-vasilisy-kozhinoy-3003198116-4.jpg",
+            "is_layout": false
+          },
+          {
+            "url": "https://images.cdn-cian.ru/images/kvartira-moskva-ulica-vasilisy-kozhinoy-3003198127-1.jpg",
+            "thumbnail_url": "https://images.cdn-cian.ru/images/kvartira-moskva-ulica-vasilisy-kozhinoy-3003198127-4.jpg",
+            "is_layout": false
+          },
+          {
+            "url": "https://images.cdn-cian.ru/images/kvartira-moskva-ulica-vasilisy-kozhinoy-3003198099-1.jpg",
+            "thumbnail_url": "https://images.cdn-cian.ru/images/kvartira-moskva-ulica-vasilisy-kozhinoy-3003198099-4.jpg",
+            "is_layout": false
+          }
+        ],
+        "photo_count": 25,
+        "videos": [],
+        "is_by_homeowner": false,
+        "is_homeowner_confirmed": false,
+        "is_from_developer": false,
+        "is_unique": false,
+        "identical_offer_ids": [],
+        "is_new_building": false,
+        "has_furniture": false,
+        "is_sold_furnished": null,
+        "is_rosreestr_checked": false,
+        "newbuilding": null,
+        "village_id": null,
+        "monthly_income_rub": null,
+        "specialties": null,
+        "coworking": null,
+        "is_auction_sale": false,
+        "trading_link": null,
+        "has_3d_tour": false,
+        "external_partner": null,
+        "raw_flags": {
+          "is_by_homeowner": false,
+          "show_by_homeowner": false,
+          "is_confirmed_home_owner": false,
+          "is_from_developer": false,
+          "is_from_builder": null,
+          "is_from_lead_factory": false,
+          "is_rosreestr_checked": false,
+          "is_auction_sale": null,
+          "is_electronic_trading": null,
+          "has_tour": false,
+          "new_flat": 1
+        },
+        "created_at": "2026-11-03T21:38:43.273"
+      },
+      {
+        "offer_id": 335713104,
+        "url": "https://www.cian.ru/sale/flat/335713104/",
+        "category": "flatSale",
+        "deal_type": "sale",
+        "offer_type": "flat",
+        "is_daily_rent": false,
+        "title": null,
+        "summary": "1-комн.кв.  •  35,3 м²  •  1/12 этаж",
+        "rooms": 1,
+        "rooms_analytics_text": null,
+        "is_studio": false,
+        "is_apartment": null,
+        "total_area_m2": 35.3,
+        "land_area_sotka": null,
+        "land_area_ha": null,
+        "floor": 1,
+        "floors_total": 12,
+        "floor_text": "1/12 этаж",
+        "price": 13150000,
+        "price_formatted_rub": 13150000,
+        "price_per_workplace": null,
+        "price_whole_office_rub": null,
+        "currency": "RUB",
+        "price_period": "total",
+        "price_formatted": "13 150 000 ₽",
+        "price_additional_formatted": null,
+        "price_per_m2_formatted": "372 521 ₽ за м²",
+        "price_changed": "none",
+        "price_details": {
+          "price_label": "Хорошая цена",
+          "discount": null
+        },
+        "terms": "Свободная продажа, возможна ипотека",
+        "terms_extra": null,
+        "agent_fee_pct": null,
+        "utilities": null,
+        "vat": null,
+        "card_info": "1-комн.кв.  •  35,3 м²  •  1/12 этаж  •  372 521 ₽ за м²",
+        "address": "Зеленый проспект, Москва",
+        "full_address": "Россия, Москва, Зелёный проспект",
+        "region_id": 1,
+        "coordinates": {
+          "lat": 55.752,
+          "lng": 37.797
+        },
+        "address_parts": [
+          {
+            "location_id": 1,
+            "name": "Москва",
+            "full_name": "Москва",
+            "type": null,
+            "location_type_id": 1,
+            "is_forming_address": true
+          },
+          {
+            "location_id": 287,
+            "name": "Зеленый",
+            "full_name": "Зеленый проспект",
+            "type": null,
+            "location_type_id": null,
+            "is_forming_address": true
+          },
+          {
+            "location_id": 1706482,
+            "name": "26",
+            "full_name": "26",
+            "type": null,
+            "location_type_id": null,
+            "is_forming_address": true
+          }
+        ],
+        "metro": [
+          {
+            "station_id": 90,
+            "name": "Перово",
+            "line_color": "FFDF00",
+            "line_id": null,
+            "minutes": 9,
+            "travel": "walk",
+            "travel_raw": "walk",
+            "under_construction": false,
+            "opening_year": null
+          }
+        ],
+        "districts": [],
+        "highways": [],
+        "railways": [],
+        "photos": [
+          {
+            "url": "https://images.cdn-cian.ru/images/kvartira-moskva-zelenyy-prospekt-3003194263-1.jpg",
+            "thumbnail_url": "https://images.cdn-cian.ru/images/kvartira-moskva-zelenyy-prospekt-3003194263-4.jpg",
+            "is_layout": false
+          },
+          {
+            "url": "https://images.cdn-cian.ru/images/3003354230-1.jpg",
+            "thumbnail_url": "https://images.cdn-cian.ru/images/3003354230-4.jpg",
+            "is_layout": true
+          },
+          {
+            "url": "https://images.cdn-cian.ru/images/kvartira-moskva-zelenyy-prospekt-3003194338-1.jpg",
+            "thumbnail_url": "https://images.cdn-cian.ru/images/kvartira-moskva-zelenyy-prospekt-3003194338-4.jpg",
+            "is_layout": false
+          }
+        ],
+        "photo_count": 10,
+        "videos": [],
+        "is_by_homeowner": false,
+        "is_homeowner_confirmed": false,
+        "is_from_developer": false,
+        "is_unique": false,
+        "identical_offer_ids": [],
+        "is_new_building": false,
+        "has_furniture": null,
+        "is_sold_furnished": null,
+        "is_rosreestr_checked": false,
+        "newbuilding": null,
+        "village_id": null,
+        "monthly_income_rub": null,
+        "specialties": null,
+        "coworking": null,
+        "is_auction_sale": false,
+        "trading_link": null,
+        "has_3d_tour": false,
+        "external_partner": null,
+        "raw_flags": {
+          "is_by_homeowner": false,
+          "show_by_homeowner": false,
+          "is_confirmed_home_owner": false,
+          "is_from_developer": false,
+          "is_from_builder": null,
+          "is_from_lead_factory": false,
+          "is_rosreestr_checked": false,
+          "is_auction_sale": null,
+          "is_electronic_trading": null,
+          "has_tour": false,
+          "new_flat": 1
+        },
+        "created_at": "2026-11-03T21:37:41.897"
+      }
+    ]
+  }
+}

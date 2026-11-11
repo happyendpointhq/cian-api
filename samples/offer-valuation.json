@@ -1,0 +1,53 @@
+{
+  "success": true,
+  "data": {
+    "offer_id": 335713104,
+    "category": "flatSale",
+    "deal_type": "sale",
+    "deal": "sale",
+    "is_supported": true,
+    "asking_price_rub": 13150000,
+    "asking_price_period": "total",
+    "sale_estimate": {
+      "estimate_rub": 13400000,
+      "lower_rub": 12100000,
+      "upper_rub": 14800000,
+      "change_6m_pct": -6.6,
+      "change_6m_text": "6,6%",
+      "change_6m_direction": "decrease",
+      "history": [
+        {
+          "date": 1777593600000,
+          "price_rub": 14385950
+        },
+        {
+          "date": 1780272000000,
+          "price_rub": 14603998
+        },
+        {
+          "date": 1782864000000,
+          "price_rub": 14078416
+        },
+        {
+          "date": 1785542400000,
+          "price_rub": 14597044
+        },
+        {
+          "date": 1788220800000,
+          "price_rub": 14424850
+        },
+        {
+          "date": 1790812800000,
+          "price_rub": 14645475
+        },
+        {
+          "date": 1793491200000,
+          "price_rub": 13440969
+        }
+      ]
+    },
+    "rent_estimate": null,
+    "price_tag": "Хорошая цена",
+    "methodology_url": "https://hc.cian.ru/hc/ru/articles/360032258772-Методология-оценки"
+  }
+}

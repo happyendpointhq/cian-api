@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "data": {
+    "offer_id": 335713104,
+    "url": "https://www.cian.ru/sale/flat/335713104",
+    "status": "published",
+    "is_active": true,
+    "category": "flatSale",
+    "deal_type": "sale",
+    "created_at": "2026-11-03T21:37:41.897",
+    "edited_at": "2026-11-03T22:25:57",
+    "archived_at": null,
+    "removed_at_field": null,
+    "summary": {
+      "currency": "RUB",
+      "price_period": "total",
+      "current_price": 13150000,
+      "first_price": 13150000,
+      "first_price_currency": "RUB",
+      "first_price_date": 1793720263,
+      "min_price": 13150000,
+      "max_price": 13150000,
+      "total_change": 0,
+      "total_change_pct": 0,
+      "changes_count": 0,
+      "increases_count": 0,
+      "decreases_count": 0,
+      "last_change_date": null,
+      "history_tracks_headline_block": false,
+      "history_has_rates": false,
+      "days_listed": 0
+    },
+    "history": [
+      {
+        "date": 1793720263,
+        "price": 13150000,
+        "currency": "RUB",
+        "currency_raw": "rur",
+        "period": null,
+        "payment_period": null,
+        "change": null,
+        "change_pct": null
+      }
+    ]
+  }
+}
