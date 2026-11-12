@@ -355,6 +355,7 @@ tables above summarise them. Real example responses are in [`samples/`](samples/
 - [fotocasa-api](https://github.com/happyendpointhq/fotocasa-api) - Spanish rentals and homes for sale
 - [uae-real-estate-api](https://github.com/happyendpointhq/uae-real-estate-api) - asking versus paid prices in Dubai
 - [awesome-alternative-data](https://github.com/happyendpointhq/awesome-alternative-data) - alternative data sources for investment research
+- [hepsiemlak-api](https://github.com/happyendpointhq/hepsiemlak-api) - Turkey listings for sale and rent, with a price index per m2 by province and district
 
 ---
 
